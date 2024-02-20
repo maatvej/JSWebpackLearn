@@ -1,0 +1,1 @@
+(()=>{"use strict";var t,r;document.write((t=4,r=5,t+r).toString())})();
